@@ -71,6 +71,7 @@
           <option name="closed_captions" value="true" />
           <option name="settings" value="true" />
           <option name="fullScreenToggle" value="false" />
+          <option name="playbackSpeedControl" value="false" />
         </options>
       </optiongroup>
       <optiongroup name="bottombaroptions">
@@ -1582,7 +1583,6 @@
             <slidelink slideid="_player.5UoCwfNvTUz.6VveITnq0PU" displaytext="Diapositiva sin título" expand="false" type="slide" />
             <slidelink slideid="_player.5UoCwfNvTUz.6gakLhKZE8F" displaytext="Diapositiva sin título" expand="false" type="slide" />
             <slidelink slideid="_player.5UoCwfNvTUz.5hnYG4ovpwx" displaytext="Diapositiva sin título" expand="false" type="slide" />
-            <slidelink slideid="_player.5UoCwfNvTUz.5p4C5iaBvAE" displaytext="Diapositiva sin título" expand="false" type="slide" />
             <slidelink slideid="_player.5UoCwfNvTUz.61kQ6BBqIUh" displaytext="Diapositiva sin título" expand="false" type="slide" />
             <slidelink slideid="_player.5UoCwfNvTUz.6F5gc592lXI" displaytext="Diapositiva sin título" expand="false" type="slide" />
             <slidelink slideid="_player.5UoCwfNvTUz.6bGSLFFiGQB" displaytext="Diapositiva sin título" expand="false" type="slide" />
